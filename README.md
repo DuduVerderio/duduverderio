@@ -1,11 +1,16 @@
-### Olá eu sou o Carlos Eduardo Verderio 👋
+## Olá, eu sou o Carlos Verderio 👋
+Estudante de Análise e Desenvolvimento de Sistemas
+
+<br>
+
+Entre em contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duduverderio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbverderio@gmail.com)
 
 ![Dudu Verderio's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+### Linguagens de programação:
 
 <div style="display: inline_block"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

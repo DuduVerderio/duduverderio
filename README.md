@@ -12,8 +12,6 @@ Entre em contato:
 
 ![Dudu Verderio's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula)
 
-<br>
-
 ### Linguagens de programação:
 
 <div style="display: inline_block"><br>

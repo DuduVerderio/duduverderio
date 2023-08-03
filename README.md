@@ -1,5 +1,5 @@
-## Olá, eu sou o Carlos Verderio 👋
-Estudante de Análise e Desenvolvimento de Sistemas
+<h1 align="center"> Olá, eu sou o Carlos Verderio 👋 </h1>
+<h3 align="center"> Estudante de Análise e Desenvolvimento de Sistemas </h3>
 
 <br>
 
@@ -9,6 +9,8 @@ Entre em contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbverderio@gmail.com)
 
 ![Dudu Verderio's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula)
+
+<br>
 
 ### Linguagens de programação:
 

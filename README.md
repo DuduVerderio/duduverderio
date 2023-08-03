@@ -11,6 +11,7 @@ Entre em contato:
 <br>
 
 ![Dudu Verderio's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens de programação:
 
@@ -23,4 +24,4 @@ Entre em contato:
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+

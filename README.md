@@ -10,8 +10,10 @@ Entre em contato:
 
 <br>
 
-![Dudu Verderio's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula"/> 
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut&theme=dracula"/>
+</div>
 
 ### Linguagens de programação:
 
@@ -23,5 +25,3 @@ Entre em contato:
     <img alt="php" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <br>
-
-

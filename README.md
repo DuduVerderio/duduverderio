@@ -14,15 +14,4 @@ Entre em contato:
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=duduverderio&show_icons=true&theme=dracula"/> 
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut&theme=dracula"/>
 </div>
-
-/*### Linguagens de programação:
-
-<div style="display: inline_block"><br>
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
-</div>*/
 <br>

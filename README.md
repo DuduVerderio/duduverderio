@@ -15,7 +15,7 @@ Entre em contato:
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduverderio&layout=donut&theme=dracula"/>
 </div>
 
-### Linguagens de programação:
+/*### Linguagens de programação:
 
 <div style="display: inline_block"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,5 +24,5 @@ Entre em contato:
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
-</div>
+</div>*/
 <br>
